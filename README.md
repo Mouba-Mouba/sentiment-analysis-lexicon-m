@@ -1,1 +1,1 @@
-# sentiment-analysis-lexicon-m
+# sentiment-analysis-lexicon-ml
